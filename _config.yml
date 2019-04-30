@@ -3,11 +3,11 @@ title: Fortnightly
 subtitle: Build
 email: fortnightlybuild@gmail.com
 description: We develop awesome products <br /> in fourteen days or less.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # "https://fortnightlybuild.com"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://fortnightlybuild.com"
 author:
 street_address: 
-city: 
+city: Brisbane
 state: 
 zip_code: 
 country: Australia
