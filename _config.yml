@@ -3,8 +3,8 @@ title: Fortnightly
 subtitle: Build
 email: fortnightlybuild@gmail.com
 description: We develop awesome products <br /> in fourteen days or less.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # "https://fortnightlybuild.com"
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
