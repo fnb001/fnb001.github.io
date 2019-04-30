@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Step 1: The Vision"
-description: Tell us what you're about 
+description: "Tell us what you're about" 
 nav-menu: true
 ---
 
