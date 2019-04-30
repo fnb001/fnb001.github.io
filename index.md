@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Our mission is simple: we want to get you the product you need as fast as we can without reinventing the wheel. We make use of various automation tools and existing code bases to get you the functionality you need within two weeks. We cater mostly to the proof of concept and minimal viable product markets, designed to help startup founders with ideas rapidly prototype so they can seek funding. 
