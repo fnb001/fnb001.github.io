@@ -1,7 +1,8 @@
 ---
 layout: page
-title: EditElements
-nav-menu: true
+title: Step 1: Vision
+subtitle: Tell us what you're about 
+nav-menu: false
 ---
 
 <!-- Main -->
