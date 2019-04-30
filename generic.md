@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: "Step 2: The Detail"
+description: "We work with you to agree a detailed feature list"
+# image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
