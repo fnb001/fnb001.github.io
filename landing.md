@@ -1,7 +1,7 @@
 ---
 title: "Step 3: The Build"
 layout: landing
-description: "We roll up our sleeves and get you the agreed product within two weeks."
+description: "We roll up our sleeves and get you the agreed product within two weeks"
 # image: assets/images/pic07.jpg
 nav-menu: true
 ---
