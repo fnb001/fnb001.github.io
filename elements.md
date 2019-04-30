@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Step 1: Vision
+title: "Step 1: The Vision"
 subtitle: Tell us what you're about 
 nav-menu: false
 ---
