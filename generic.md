@@ -2,7 +2,7 @@
 layout: post
 title: "Step 2: The Detail"
 description: "We work with you to agree a detailed feature list"
-# image: assets/images/pic11.jpg
+assets/images/dest3.jpg
 nav-menu: true
 ---
 
