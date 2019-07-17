@@ -7,10 +7,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fortnightlybuild.com"
 author:
 street_address: 
-city: Brisbane
+city: 
 state: 
 zip_code: 
-country: Australia
+country: 
 phone: 
 
 # homepage tiles
